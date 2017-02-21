@@ -5,7 +5,9 @@ print(iris.keys())
 
 aa
 
-
+import numpy as np
+a=5
+print(a)
 
 
 
